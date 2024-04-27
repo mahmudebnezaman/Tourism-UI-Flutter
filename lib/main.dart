@@ -24,7 +24,6 @@ void main() {
       '/pacific': (context) => const Detail(),
       '/radisson': (context) => const Detail2(),
       'busticket': (context) => const busticket(),
-      'barsha': (context) => const MyLogin(),
     },
   ));
 }
